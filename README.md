@@ -55,3 +55,7 @@ To style your code, select a Rouge theme:
 1. Visit [this GitHub repository](https://github.com/low-perry/my-jekyll-syntax-highlighter-theme) .
 
 2. Copy the content of your preferred theme into `syntax.css` file.
+
+### Warning
+
+This theme is tailored to the rouge's html output for java. To have a better experience please check the developer tools for the classes assigned to the span elements for your preferred language's tokens.
